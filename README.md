@@ -1,0 +1,39 @@
+# Weekly Roundup Builder
+
+<p>
+  <img alt="Status: Working tool" src="https://img.shields.io/badge/status-working%20tool-2563eb">
+  <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
+</p>
+
+Pull whatever data and findings you actually have this week into one honest report, without inventing a trend where no earlier report exists to compare against.
+
+## Why
+
+A weekly report is easy to get subtly wrong in two ways: claiming movement from a single snapshot with nothing to compare it to, and treating a section with no data as if it were a confirmed zero. This composes what genuinely exists, marks what is missing as missing, and only claims a trend once a real baseline exists.
+
+## Use It
+
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in whatever you actually have this period. It produces a report that:
+
+- **Composes existing findings** rather than re-deriving analysis already done elsewhere
+- **Never claims a trend** without a genuine earlier report to compare against
+- **Separates missing from zero**, in both directions
+- **Names specific priorities** drawn from this period's actual data, not generic advice
+
+See [the worked example](example/): a fictional freelance designer's first-ever weekly roundup, correctly telling a genuinely tracked zero apart from a simply unlogged figure, and correctly refusing to claim a trend on the very first report.
+
+Use [the blank template](templates/roundup-template.md) for your own roundup.
+
+No installation, project, or coding required to try it once.
+
+## Before You Use It
+
+This composes a report; it does not act on anything in it. Approving and acting on any suggested priority stays your own decision.
+
+## Licence
+
+MIT.
+
+## Feedback
+
+Used it for a real weekly roundup? [Start a discussion](https://github.com/shaunmarsden/weekly-roundup-builder/discussions) if something did not fit.
