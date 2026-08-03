@@ -42,10 +42,6 @@ No installation, project, or coding required to try it once.
 
 This composes a report; it does not act on anything in it. Approving and acting on any suggested priority stays your own decision.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it for a real weekly roundup? [Start a discussion](https://github.com/shaunmarsden/weekly-roundup-builder/discussions) if something did not fit.
