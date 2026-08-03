@@ -11,13 +11,7 @@ Pull whatever data and findings you actually have this week into one honest repo
 
 A weekly report is easy to get subtly wrong in two ways: claiming movement from a single snapshot with nothing to compare it to, and treating a section with no data as if it were a confirmed zero. This composes what genuinely exists, marks what is missing as missing, and only claims a trend once a real baseline exists.
 
-```mermaid
-flowchart TB
-    A["1. Paste whatever data and findings you actually have"]
-    B["2. Missing kept apart from zero, trends checked against a real baseline"]
-    C["3. An honest report, with specific priorities, not generic advice"]
-    A --> B --> C
-```
+![Checks that prevent a weekly report confusing missing data with zero or a snapshot with a trend.](assets/diagrams/15-weekly-roundup-builder.svg)
 
 ## Use It
 
