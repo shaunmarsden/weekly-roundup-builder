@@ -47,4 +47,4 @@ Do not produce a report when:
 
 Approve every suggested action yourself; this composes a report, it does not act on anything.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/roundup-template.md) for your own report.
+For a fictional worked example, read [the worked example](example/). For the harder case, a second report with a real baseline and a request to backfill a missing figure, read [the second worked example](example-two/). Use [the blank template](templates/roundup-template.md) for your own report, and [the review checklist](checks/checklist.md) before acting on anything it suggests.

@@ -11,6 +11,14 @@ Pull whatever data and findings you actually have this week into one honest repo
 
 A weekly report is easy to get subtly wrong in two ways: claiming movement from a single snapshot with nothing to compare it to, and treating a section with no data as if it were a confirmed zero. This composes what genuinely exists, marks what is missing as missing, and only claims a trend once a real baseline exists.
 
+```mermaid
+flowchart TB
+    A["1. Paste whatever data and findings you actually have"]
+    B["2. Missing kept apart from zero, trends checked against a real baseline"]
+    C["3. An honest report, with specific priorities, not generic advice"]
+    A --> B --> C
+```
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in whatever you actually have this period. It produces a report that:
@@ -20,9 +28,19 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - **Separates missing from zero**, in both directions
 - **Names specific priorities** drawn from this period's actual data, not generic advice
 
-See [the worked example](example/): a fictional freelance designer's first-ever weekly roundup, correctly telling a genuinely tracked zero apart from a simply unlogged figure, and correctly refusing to claim a trend on the very first report.
+<details>
+<summary><strong>See exactly what it produces</strong></summary>
 
-Use [the blank template](templates/roundup-template.md) for your own roundup.
+1. Each section composed from what genuinely exists, with missing sections marked missing, not zero
+2. A trend claim only where a genuine earlier report actually supports one
+3. Specific priorities drawn from this period's data, not generic advice
+4. Any request to estimate a missing figure, declined rather than quietly filled in
+
+</details>
+
+See [the worked example](example/): a fictional freelance designer's first-ever weekly roundup, correctly telling a genuinely tracked zero apart from a simply unlogged figure, and correctly refusing to claim a trend on the very first report. For the harder case, a second report where a real baseline now exists and a request to backfill a missing figure with an estimate, read [the second worked example](example-two/).
+
+Use [the blank template](templates/roundup-template.md) for your own roundup, and [the review checklist](checks/checklist.md) before acting on anything it suggests.
 
 No installation, project, or coding required to try it once.
 
