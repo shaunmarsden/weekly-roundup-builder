@@ -5,7 +5,7 @@ description: Pull whatever data and findings you actually have this week into on
 
 # Weekly Roundup Builder
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then paste in whatever you actually have this week.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then paste in whatever you actually have this week.
 
 This pulls together a weekly view from whatever data and findings genuinely exist, rather than building a dashboard by hand or repeating analysis already done elsewhere.
 
