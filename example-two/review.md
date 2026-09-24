@@ -11,6 +11,7 @@ Checking [output.md](output.md) against what [inputs.md](inputs.md) was built to
 ## What Still Needs a Human Check
 
 - Whether marketing time actually is happening and just isn't being logged is a real question for the designer to resolve, tracking it going forward, not backfilling an estimate.
+- Whether the small movement in client hours matters is a judgement the output makes, not a fact it reports. A genuine baseline does exist for those figures, and the output calls the shift ordinary variation rather than a trend. That is defensible, but the designer is the one who would know whether two hours off a main client means something.
 
 ## Verdict
 
