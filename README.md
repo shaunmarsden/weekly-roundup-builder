@@ -32,7 +32,7 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 
 </details>
 
-See [the worked example](example/): a fictional freelance designer's first-ever weekly roundup, correctly telling a genuinely tracked zero apart from a simply unlogged figure, and correctly refusing to claim a trend on the very first report. For a harder second case, the same designer's following week, read [the second worked example](example-two/).
+See [the worked example](example/): a fictional freelance designer's first-ever weekly roundup. For a harder second case, the same designer's following week, read [the second worked example](example-two/).
 
 Use [the blank template](templates/roundup-template.md) for your own roundup, and [the review checklist](checks/checklist.md) before acting on anything it suggests.
 
