@@ -20,7 +20,7 @@ Declined. "A couple of hours" for the reposts was not actually tracked; putting 
 
 ## Trend
 
-Two real movements this week, both against a genuine earlier report: the overdue invoice is resolved, and inquiries moved from zero to four. Marketing time cannot be assessed as a trend, since it has been missing in both reports, not tracked in either, which is a different situation from having moved.
+Two real movements this week, both against a genuine earlier report: the overdue invoice is resolved, and inquiries moved from zero to four. Client hours did move against last week's figures, Client A from 12 to 10 and Client B from 8 to 9, with the weekly total going from 20 to 19, but a shift that size is ordinary week to week variation rather than a direction, so it is reported here and not claimed as a third trend. Marketing time cannot be assessed as a trend, since it has been missing in both reports, not tracked in either, which is a different situation from having moved.
 
 ## Priorities for Next Week
 
