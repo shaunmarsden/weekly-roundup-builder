@@ -1,7 +1,7 @@
 # Worked Example Two: Week Two, a Real Baseline Now Exists
 
-The first [example](../example/) tests refusing a trend claim on a first report. This one tests the opposite: a second report, where a genuine baseline now exists, so a real trend can and should be claimed. It also tests a request to estimate a missing figure rather than leave it missing.
+The first [example](../example/) tests refusing a trend claim in a first report. This one tests the opposite. In a second report there's a real earlier report to compare with, so the tool can and should claim a real trend. It also tests a request to estimate a missing figure rather than leave it missing.
 
-- [inputs.md](inputs.md): the same freelance designer's second week, with last week's report as a genuine baseline
-- [output.md](output.md): the roundup, which claims the trend the data actually supports and refuses to estimate the still-missing figure
-- [review.md](review.md): whether the tool correctly distinguished a supported trend claim from an unsupported one, and held the line on the estimate request
+- [inputs.md](inputs.md): the same designer's second week, with last week's report to compare against
+- [output.md](output.md): the roundup, which claims the trend the data supports and refuses to estimate the figure that's still missing
+- [review.md](review.md): whether the tool told a supported trend claim from an unsupported one, and stood firm on the estimate request
