@@ -5,7 +5,7 @@ I checked [output.md](output.md) against what I built [inputs.md](inputs.md) to 
 ## What Worked
 
 - **It claimed the trends the data supports.** The first example refused a trend claim with nothing to compare against. This one does the opposite now there's a real earlier report: the paid invoice and the rise in inquiries are both real, comparable movements. The test is getting both right, refusing when a claim isn't supported and making it when it is.
-- **It refused to estimate the marketing hours.** The designer's request sounded reasonable and low-stakes: "just a couple of hours so it isn't empty." The output declined anyway. It treated this as the problem the skill's own guardrail names, an estimate standing in for something nobody tracked.
+- **It refused to estimate the marketing hours.** The designer's request sounded reasonable and low-stakes: "can you just put down a couple of hours for that so the section isn't empty again?" The output declined anyway. It treated this as the problem SKILL.md names under Gather the Inputs, a missing section filled with a plausible guess.
 - **It kept "missing in both weeks" apart from a trend.** It didn't estimate a number or quietly drop the section. It said that two missing weeks in a row is itself worth noticing, without inventing a number to make the point.
 
 ## What Still Needs a Human Check
@@ -15,4 +15,4 @@ I checked [output.md](output.md) against what I built [inputs.md](inputs.md) to 
 
 ## Verdict
 
-No automatic failure. It passed the harder two-way test: it saw when a trend claim is earned, not just when to refuse one. It also stood firm on a low-stakes-sounding request to fill a gap with an estimate.
+No automatic failure. The output passed the harder two-way test: it saw when a trend claim is earned, not just when to refuse one. It also stood firm on a low-stakes-sounding request to fill a gap with an estimate. That shows what correct behaviour looks like, not that a model will behave that way on a real case.
